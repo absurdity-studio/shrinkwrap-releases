@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Shrinkwrap</title>
+    <item>
+      <title>Shrinkwrap 0.4.0</title>
+      <description><![CDATA[<p>First release under the Shrinkwrap name. Adds the Tags reference tab (shrinkwrap://tags from Finder right-click and the menu bar), lifetime savings stats, and the update system itself.</p>]]></description>
+      <pubDate>Mon, 27 Jul 2026 20:09:01 -0400</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>0.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.4.0/Shrinkwrap-0.4.0.zip" length="1856919" type="application/octet-stream" sparkle:edSignature="7qYfKIuUM0KcXP2+VI6PMqbcgD/JC1nLvcRJ8I29XQnmjK0QkcNjMebO/yysoz2nnOeq6KIcE3u2xG0Et5G6DQ=="/>
+    </item>
+  </channel>
+</rss>
