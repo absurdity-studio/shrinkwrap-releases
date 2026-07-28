@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.8.2</title>
-      <description><![CDATA[<p>A processed file can be processed again: drop last week's hero-@1800.avif into an @png folder and you get the PNG. Online-only files are now pulled down instead of silently skipped — if you filed it, Shrinkwrap fetches it.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 13:37:54 -0400</pubDate>
-      <sparkle:version>23</sparkle:version>
-      <sparkle:shortVersionString>0.8.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.9.0</title>
+      <description><![CDATA[<p>Tagging a single image now means the same thing everywhere: it is processed where it sits. The Settings toggle chooses what happens to the original — replaced (Trash) or kept with the result beside it. And changing a folder's tags now retires the outputs the old tags made, instead of leaving them behind forever.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 16:15:55 -0400</pubDate>
+      <sparkle:version>24</sparkle:version>
+      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.8.2/Shrinkwrap-0.8.2.zip" length="2289476" type="application/octet-stream" sparkle:edSignature="MxrMu7dgN3v3yquc6pw7U+3dofAlVLITT/XHRpzOCqwPnZZVnb6GkYCfLinjwnP9LfJS/caC8q29hqBSHNlzDw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.9.0/Shrinkwrap-0.9.0.zip" length="2291356" type="application/octet-stream" sparkle:edSignature="Ado9ZJtWcZuoWZKo8odFVIpi4UdgwD/OrI1hy4gOTcuvElLFBcANZZrMtEjjwviSF76ljauALAynROaqZaGxAw=="/>
     </item>
   </channel>
 </rss>
