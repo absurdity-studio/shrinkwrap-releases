@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.5.4</title>
-      <description><![CDATA[<p>New How to tab in Settings: the three ways to use Shrinkwrap — a folder that keeps working, one image replaced in place, or right-click Quick Actions — with what each one keeps and when to reach for it. Also on the menu bar and at shrinkwrap://howto.</p>]]></description>
-      <pubDate>Mon, 27 Jul 2026 23:31:52 -0400</pubDate>
-      <sparkle:version>14</sparkle:version>
-      <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.6.0</title>
+      <description><![CDATA[<p>PDFs are now sources. Each page renders separately as name-p1, name-p2, drawn directly at the target size rather than rasterized and resampled. The new @pdf tag keeps the PDF alongside the rendered pages instead of only archiving it, so "Post @pdf @png" gives you both.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 10:52:02 -0400</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.4/Shrinkwrap-0.5.4.zip" length="1993679" type="application/octet-stream" sparkle:edSignature="rJSbUy4Gyk7oCJ380T4MrD5tazxVxgBi5J5cpbRU2E0UI6EU0gPFGd+p9G8xJlIHBk+LhJEujhEg8jRtRdrIDQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.0/Shrinkwrap-0.6.0.zip" length="2217316" type="application/octet-stream" sparkle:edSignature="SHANoD/MeNARp9JfUtuJzmKWw9J0AeoPH4g9QEpLopv0uv6o+OKwY6XiK2FFtT5oGGosm89Ap8RWcTylMGOaCg=="/>
     </item>
   </channel>
 </rss>
