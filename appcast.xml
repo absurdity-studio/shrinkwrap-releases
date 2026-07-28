@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.7.0</title>
-      <description><![CDATA[<p>A folder with a name of its own is now the whole job: 'Product Photos @1800 @avif' keeps its sources, outputs, z_originals and log inside itself and never touches anything around it. Only a folder named purely with tags — '_@2000 @webp' — renders the images beside it. Tagging one folder no longer quietly adopts everything in its parent.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 12:01:23 -0400</pubDate>
-      <sparkle:version>20</sparkle:version>
-      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.8.0</title>
+      <description><![CDATA[<p>One folder instead of four: z_originals, x_backups, y_leftovers and a_image-logs.txt now live together inside z_backups/ as originals/, backups/, leftovers/ and image-logs.txt. Existing folders migrate themselves on the next run, keeping the log — and with it every record of what was already made — intact.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 12:28:47 -0400</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.7.0/Shrinkwrap-0.7.0.zip" length="2264225" type="application/octet-stream" sparkle:edSignature="eplsDmtFSyASGzaxy/LSfAq1UxRThg1TQqfX5BYlpYkqQ8kEltfFsxRm2qBe6jLNFeBjBYdYSqqXYXsxc7aDDQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.8.0/Shrinkwrap-0.8.0.zip" length="2272264" type="application/octet-stream" sparkle:edSignature="txZXqHkY5Dwg46CVj1zfMB5EFJSEfsASwu1N2NwyvUR0InrmGgYn6K8EPjG3gIkG4Ek3Ga9Oq7EwsiTvF9xOBg=="/>
     </item>
   </channel>
 </rss>
