@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.6.2</title>
-      <description><![CDATA[<p>Internal rename: the engine module is ShrinkwrapCore and the last At-era type names are gone. No behaviour change. User macros now live at ~/Library/Application Support/shrinkwrap/macros.json, with the old path still read as a fallback.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 11:28:02 -0400</pubDate>
-      <sparkle:version>17</sparkle:version>
-      <sparkle:shortVersionString>0.6.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.6.3</title>
+      <description><![CDATA[<p>The support button is live in Settings — pay what you like, it goes to the team that builds this.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 11:33:27 -0400</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.2/Shrinkwrap-0.6.2.zip" length="2246201" type="application/octet-stream" sparkle:edSignature="tlNg3iSqaODVEhPD4XT1wLSJ3sjhj99xtbVmjj/S5IbnsPl3h/qNeMSoinBFSndJU0IHpvSVULyn2evklBwWCg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.3/Shrinkwrap-0.6.3.zip" length="2247043" type="application/octet-stream" sparkle:edSignature="PqI0lfMTYYr+qxiVcejbGuFsJoIsqSvgm64N2qU8ECSmGv9x0fDG1lySJS1hoEmJZVjIUbJLT7YCU6LtALbHCg=="/>
     </item>
   </channel>
 </rss>
