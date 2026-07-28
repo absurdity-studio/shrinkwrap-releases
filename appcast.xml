@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.9.0</title>
-      <description><![CDATA[<p>Tagging a single image now means the same thing everywhere: it is processed where it sits. The Settings toggle chooses what happens to the original — replaced (Trash) or kept with the result beside it. And changing a folder's tags now retires the outputs the old tags made, instead of leaving them behind forever.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 16:15:55 -0400</pubDate>
-      <sparkle:version>24</sparkle:version>
-      <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.9.1</title>
+      <description><![CDATA[<p>The tagged-image toggle now picks between the two readings of the gesture: on, the image is processed where it sits; off, the tag builds the matching @ folder and files the image as a source.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 16:31:36 -0400</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.9.0/Shrinkwrap-0.9.0.zip" length="2291356" type="application/octet-stream" sparkle:edSignature="Ado9ZJtWcZuoWZKo8odFVIpi4UdgwD/OrI1hy4gOTcuvElLFBcANZZrMtEjjwviSF76ljauALAynROaqZaGxAw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.9.1/Shrinkwrap-0.9.1.zip" length="2292868" type="application/octet-stream" sparkle:edSignature="rQ4YEUrn8Yqdgu32ZrRAxmOLk1lYpwVoII9k/U4+SPss/Slcyu0qLk8djK5MQtIFmUmo++G+wqZDQFaOeDczCw=="/>
     </item>
   </channel>
 </rss>
