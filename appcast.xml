@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.5.0</title>
-      <description><![CDATA[<p>Watch as many folders as you like. Settings gains a watched-folders list with add and remove, the first-run tour lets you add several, and overlapping folders are collapsed so nothing is processed twice.</p>]]></description>
-      <pubDate>Mon, 27 Jul 2026 21:41:17 -0400</pubDate>
-      <sparkle:version>10</sparkle:version>
-      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.5.1</title>
+      <description><![CDATA[<p>Security and data-safety fixes from a full multi-agent audit: URL-scheme actions are confined to watched folders, a failed backup can no longer be followed by an overwrite, cloud-evicted sources no longer look deleted, the log can never be truncated, diagnostics can no longer re-arm the sync loop, hardened runtime is on, and the savings counter actually counts.</p>]]></description>
+      <pubDate>Mon, 27 Jul 2026 22:19:55 -0400</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.0/Shrinkwrap-0.5.0.zip" length="1947069" type="application/octet-stream" sparkle:edSignature="/L1fEB+Z40v3zP7Xaxk4i2/Vttt5QdmLDNimL3fXbZJ0Un5VJTyfpETWWD78fOvctRzlhGoG8YMbyBmAV25hAg=="/>
+      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.1/Shrinkwrap-0.5.1.zip" length="1954902" type="application/octet-stream" sparkle:edSignature="rVm0Pl6CA+5bUUzMk5yohDDsz0HC1Ne5It8K4tXkHL/mvc6s4DgxkrTr18HJo5eQHYOnHd8lxo/a7ot1UBZ0Aw=="/>
     </item>
   </channel>
 </rss>
