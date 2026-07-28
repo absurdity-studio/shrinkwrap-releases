@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.6.3</title>
-      <description><![CDATA[<p>The support button is live in Settings — pay what you like, it goes to the team that builds this.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 11:33:27 -0400</pubDate>
-      <sparkle:version>18</sparkle:version>
-      <sparkle:shortVersionString>0.6.3</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.6.4</title>
+      <description><![CDATA[<p>Credit line now matches AgencyFlow: Built by [absurdity] · a Webflow studio · Visit our site, on one baseline.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 11:46:13 -0400</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.3/Shrinkwrap-0.6.3.zip" length="2247043" type="application/octet-stream" sparkle:edSignature="PqI0lfMTYYr+qxiVcejbGuFsJoIsqSvgm64N2qU8ECSmGv9x0fDG1lySJS1hoEmJZVjIUbJLT7YCU6LtALbHCg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.4/Shrinkwrap-0.6.4.zip" length="2252786" type="application/octet-stream" sparkle:edSignature="hTakutHS84nfEiEWXkLcUUarKqrih9dFGsCgnnF0/awSXCdYdxYhANruXi2BpYnQdvdbnItM0f1qwn89a62KCg=="/>
     </item>
   </channel>
 </rss>
