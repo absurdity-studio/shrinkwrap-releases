@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.8.0</title>
-      <description><![CDATA[<p>One folder instead of four: z_originals, x_backups, y_leftovers and a_image-logs.txt now live together inside z_backups/ as originals/, backups/, leftovers/ and image-logs.txt. Existing folders migrate themselves on the next run, keeping the log — and with it every record of what was already made — intact.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 12:28:47 -0400</pubDate>
-      <sparkle:version>21</sparkle:version>
-      <sparkle:shortVersionString>0.8.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.8.1</title>
+      <description><![CDATA[<p>Rename an output and Shrinkwrap now recognises it by its contents: the geometry stamp is restored onto the name you chose, the bytes are left alone, and it is not regenerated under the derived name. Previously a renamed output was mistaken for a new source and re-encoded into a second generation.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 13:30:04 -0400</pubDate>
+      <sparkle:version>22</sparkle:version>
+      <sparkle:shortVersionString>0.8.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.8.0/Shrinkwrap-0.8.0.zip" length="2272264" type="application/octet-stream" sparkle:edSignature="txZXqHkY5Dwg46CVj1zfMB5EFJSEfsASwu1N2NwyvUR0InrmGgYn6K8EPjG3gIkG4Ek3Ga9Oq7EwsiTvF9xOBg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.8.1/Shrinkwrap-0.8.1.zip" length="2282552" type="application/octet-stream" sparkle:edSignature="8z1f4aJhfD1//DinbErIr2dTFk01l2MBcDZH4Y6FUwLx3dpjeKNGJxT18lXh4OsF9VRYKA9zgCKow/H0lUZeBw=="/>
     </item>
   </channel>
 </rss>
