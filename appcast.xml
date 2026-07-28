@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.5.1</title>
-      <description><![CDATA[<p>Security and data-safety fixes from a full multi-agent audit: URL-scheme actions are confined to watched folders, a failed backup can no longer be followed by an overwrite, cloud-evicted sources no longer look deleted, the log can never be truncated, diagnostics can no longer re-arm the sync loop, hardened runtime is on, and the savings counter actually counts.</p>]]></description>
-      <pubDate>Mon, 27 Jul 2026 22:19:55 -0400</pubDate>
-      <sparkle:version>11</sparkle:version>
-      <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.5.2</title>
+      <description><![CDATA[<p>File tags now work on their own: dropping priyang@600sq.jpg into a watched folder is enough — previously a tagged file was only honoured in folders that already contained an @ folder.</p>]]></description>
+      <pubDate>Mon, 27 Jul 2026 23:20:23 -0400</pubDate>
+      <sparkle:version>12</sparkle:version>
+      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.1/Shrinkwrap-0.5.1.zip" length="1954902" type="application/octet-stream" sparkle:edSignature="rVm0Pl6CA+5bUUzMk5yohDDsz0HC1Ne5It8K4tXkHL/mvc6s4DgxkrTr18HJo5eQHYOnHd8lxo/a7ot1UBZ0Aw=="/>
+      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.2/Shrinkwrap-0.5.2.zip" length="1955648" type="application/octet-stream" sparkle:edSignature="PKkQiAEH0ovAmabqjXd3hJivV+GMXXGZHNbWAN7N1LFdNuS7NvRHmv3clVih+UVA+29B9yDbyM+bvAyPuVcRAg=="/>
     </item>
   </channel>
 </rss>
