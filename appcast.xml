@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.9.1</title>
-      <description><![CDATA[<p>The tagged-image toggle now picks between the two readings of the gesture: on, the image is processed where it sits; off, the tag builds the matching @ folder and files the image as a source.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 16:31:36 -0400</pubDate>
-      <sparkle:version>25</sparkle:version>
-      <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.10.0</title>
+      <description><![CDATA[<p>Managed folders now carry a Finder colour label: green when the last run was clean, yellow when something was skipped, red when something failed. Finder Sync badges never appear inside Dropbox — a colour label does, and it syncs between Macs.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 16:43:03 -0400</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.9.1/Shrinkwrap-0.9.1.zip" length="2292868" type="application/octet-stream" sparkle:edSignature="rQ4YEUrn8Yqdgu32ZrRAxmOLk1lYpwVoII9k/U4+SPss/Slcyu0qLk8djK5MQtIFmUmo++G+wqZDQFaOeDczCw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.10.0/Shrinkwrap-0.10.0.zip" length="2302731" type="application/octet-stream" sparkle:edSignature="l169yl3XWRWOpVjIFN92l8bF5PNBy/OPBCxZwMH4tvUaDp3Dcpea4gY53h0SzLrpRJCZ0aHIVknEa1j7S3P+Dg=="/>
     </item>
   </channel>
 </rss>
