@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.6.0</title>
-      <description><![CDATA[<p>PDFs are now sources. Each page renders separately as name-p1, name-p2, drawn directly at the target size rather than rasterized and resampled. The new @pdf tag keeps the PDF alongside the rendered pages instead of only archiving it, so "Post @pdf @png" gives you both.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 10:52:02 -0400</pubDate>
-      <sparkle:version>15</sparkle:version>
-      <sparkle:shortVersionString>0.6.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.6.1</title>
+      <description><![CDATA[<p>The Absurdity mark now sits above the credit line in Settings, drawn as a template asset so it follows light and dark with the text beside it.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 11:19:35 -0400</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>0.6.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.0/Shrinkwrap-0.6.0.zip" length="2217316" type="application/octet-stream" sparkle:edSignature="SHANoD/MeNARp9JfUtuJzmKWw9J0AeoPH4g9QEpLopv0uv6o+OKwY6XiK2FFtT5oGGosm89Ap8RWcTylMGOaCg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.1/Shrinkwrap-0.6.1.zip" length="2228114" type="application/octet-stream" sparkle:edSignature="S4P5Gye50oBNGdMIfCfkwH6+6ECmByBTK5VftfE5wNLmnE6xLGBVvGFxs5k/0y0s23pMMm1ZO5QFfArOm0skDQ=="/>
     </item>
   </channel>
 </rss>
