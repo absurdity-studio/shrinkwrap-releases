@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.6.4</title>
-      <description><![CDATA[<p>Credit line now matches AgencyFlow: Built by [absurdity] · a Webflow studio · Visit our site, on one baseline.</p>]]></description>
-      <pubDate>Tue, 28 Jul 2026 11:46:13 -0400</pubDate>
-      <sparkle:version>19</sparkle:version>
-      <sparkle:shortVersionString>0.6.4</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.7.0</title>
+      <description><![CDATA[<p>A folder with a name of its own is now the whole job: 'Product Photos @1800 @avif' keeps its sources, outputs, z_originals and log inside itself and never touches anything around it. Only a folder named purely with tags — '_@2000 @webp' — renders the images beside it. Tagging one folder no longer quietly adopts everything in its parent.</p>]]></description>
+      <pubDate>Tue, 28 Jul 2026 12:01:23 -0400</pubDate>
+      <sparkle:version>20</sparkle:version>
+      <sparkle:shortVersionString>0.7.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.6.4/Shrinkwrap-0.6.4.zip" length="2252786" type="application/octet-stream" sparkle:edSignature="hTakutHS84nfEiEWXkLcUUarKqrih9dFGsCgnnF0/awSXCdYdxYhANruXi2BpYnQdvdbnItM0f1qwn89a62KCg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.7.0/Shrinkwrap-0.7.0.zip" length="2264225" type="application/octet-stream" sparkle:edSignature="eplsDmtFSyASGzaxy/LSfAq1UxRThg1TQqfX5BYlpYkqQ8kEltfFsxRm2qBe6jLNFeBjBYdYSqqXYXsxc7aDDQ=="/>
     </item>
   </channel>
 </rss>
