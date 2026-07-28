@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.4.2</title>
-      <description><![CDATA[<p>First-run welcome tour (how it works, pick your folder, the tags, switches), an Install-updates-automatically toggle, and 10 new rungs on the savings ladder — from the Photoshop 1.0 floppy to a Zip disk.</p>]]></description>
-      <pubDate>Mon, 27 Jul 2026 20:32:42 -0400</pubDate>
-      <sparkle:version>7</sparkle:version>
-      <sparkle:shortVersionString>0.4.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.4.3</title>
+      <description><![CDATA[<p>Welcome tour opens with 'Transparent by design' — tools live in your Finder folders as @ tags.</p>]]></description>
+      <pubDate>Mon, 27 Jul 2026 20:39:42 -0400</pubDate>
+      <sparkle:version>8</sparkle:version>
+      <sparkle:shortVersionString>0.4.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.4.2/Shrinkwrap-0.4.2.zip" length="1908882" type="application/octet-stream" sparkle:edSignature="2rvA/tTiVDdRqkimBdZlSIkJhlarZ/VwxvmMnOLO5pn2NYwm2e8b3uIV1KBm24CRcgNd3uG7HsYj5SjOA45KBw=="/>
+      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.4.3/Shrinkwrap-0.4.3.zip" length="1907418" type="application/octet-stream" sparkle:edSignature="aOrQy7Uu9a3mKxinG3COBJFHy35HU73KCyXGw92+lowvNuMcdbzg/lJdVjPpx4HvIgNzLSN1YtnvoMCSokoqAA=="/>
     </item>
   </channel>
 </rss>
