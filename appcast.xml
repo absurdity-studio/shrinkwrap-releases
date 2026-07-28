@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.5.3</title>
-      <description><![CDATA[<p>Tag one image and it's replaced in place: photo@600sq.jpg alone in an ordinary folder is shrunk where it sits, with the original moved to the Trash and no z_originals, backups, or log files left behind. Folders you've already set up with @ folders behave exactly as before.</p>]]></description>
-      <pubDate>Mon, 27 Jul 2026 23:27:07 -0400</pubDate>
-      <sparkle:version>13</sparkle:version>
-      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.5.4</title>
+      <description><![CDATA[<p>New How to tab in Settings: the three ways to use Shrinkwrap — a folder that keeps working, one image replaced in place, or right-click Quick Actions — with what each one keeps and when to reach for it. Also on the menu bar and at shrinkwrap://howto.</p>]]></description>
+      <pubDate>Mon, 27 Jul 2026 23:31:52 -0400</pubDate>
+      <sparkle:version>14</sparkle:version>
+      <sparkle:shortVersionString>0.5.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.3/Shrinkwrap-0.5.3.zip" length="1981556" type="application/octet-stream" sparkle:edSignature="YlyPytwHcEq3RyKi9ut3Cs3vXzdBWoHSMntNSuBR2TY1v2gvK+CG2xAgKMwomcBVIjqOnjjssRRwcj3POAlDBw=="/>
+      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.4/Shrinkwrap-0.5.4.zip" length="1993679" type="application/octet-stream" sparkle:edSignature="rJSbUy4Gyk7oCJ380T4MrD5tazxVxgBi5J5cpbRU2E0UI6EU0gPFGd+p9G8xJlIHBk+LhJEujhEg8jRtRdrIDQ=="/>
     </item>
   </channel>
 </rss>
