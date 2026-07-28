@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.5.2</title>
-      <description><![CDATA[<p>File tags now work on their own: dropping priyang@600sq.jpg into a watched folder is enough — previously a tagged file was only honoured in folders that already contained an @ folder.</p>]]></description>
-      <pubDate>Mon, 27 Jul 2026 23:20:23 -0400</pubDate>
-      <sparkle:version>12</sparkle:version>
-      <sparkle:shortVersionString>0.5.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.5.3</title>
+      <description><![CDATA[<p>Tag one image and it's replaced in place: photo@600sq.jpg alone in an ordinary folder is shrunk where it sits, with the original moved to the Trash and no z_originals, backups, or log files left behind. Folders you've already set up with @ folders behave exactly as before.</p>]]></description>
+      <pubDate>Mon, 27 Jul 2026 23:27:07 -0400</pubDate>
+      <sparkle:version>13</sparkle:version>
+      <sparkle:shortVersionString>0.5.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.2/Shrinkwrap-0.5.2.zip" length="1955648" type="application/octet-stream" sparkle:edSignature="PKkQiAEH0ovAmabqjXd3hJivV+GMXXGZHNbWAN7N1LFdNuS7NvRHmv3clVih+UVA+29B9yDbyM+bvAyPuVcRAg=="/>
+      <enclosure url="https://github.com/thedesigner97/shrinkwrap-releases/releases/download/v0.5.3/Shrinkwrap-0.5.3.zip" length="1981556" type="application/octet-stream" sparkle:edSignature="YlyPytwHcEq3RyKi9ut3Cs3vXzdBWoHSMntNSuBR2TY1v2gvK+CG2xAgKMwomcBVIjqOnjjssRRwcj3POAlDBw=="/>
     </item>
   </channel>
 </rss>
