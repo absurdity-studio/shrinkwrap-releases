@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.11.1</title>
-      <description><![CDATA[<p>Shrinkwrap now guarantees it asks about updates at least once a week, even if automatic checks were switched off or the app has been running for a month without a relaunch.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 14:30:44 -0400</pubDate>
-      <sparkle:version>29</sparkle:version>
-      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.11.2</title>
+      <description><![CDATA[<p>An update left uninstalled for a week now says so: the menu bar icon changes and the menu leads with how long it has been waiting.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 14:39:39 -0400</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>0.11.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.11.1/Shrinkwrap-0.11.1.zip" length="2394389" type="application/octet-stream" sparkle:edSignature="K1F93pV89g/bMHv8CnHMLWbtzHBnpT1YmfFnrJWgU56JQuWShiu2RIDUonlAmk2AyS8Egyz3N+cznIaoZ/tMCw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.11.2/Shrinkwrap-0.11.2.zip" length="2407938" type="application/octet-stream" sparkle:edSignature="Sz/6qFSUYnSkOD65/PmcUjNlgaXB6CHcS+yC1hvIs3NXLYzZDn9p4/9VA0sQy/kZPq3/EjBsKBcohZvAcXTDBw=="/>
     </item>
   </channel>
 </rss>
