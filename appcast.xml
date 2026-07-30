@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.11.3</title>
-      <description><![CDATA[<p>Deleting an output now sticks. Shrinkwrap made it once and recorded it — if you remove it and nothing about the source or the tags has changed, it stays gone. It comes back when you edit the source, change the tags, or ask for it.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 17:25:19 -0400</pubDate>
-      <sparkle:version>31</sparkle:version>
-      <sparkle:shortVersionString>0.11.3</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.11.4</title>
+      <description><![CDATA[<p>Status colours now appear immediately instead of whenever Finder next happened to re-read the folder.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 17:36:12 -0400</pubDate>
+      <sparkle:version>32</sparkle:version>
+      <sparkle:shortVersionString>0.11.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.11.3/Shrinkwrap-0.11.3.zip" length="2412515" type="application/octet-stream" sparkle:edSignature="28Y9u3/oetVU9WL+XV7E/sDh9p7IEOHgozFVlOyZGadyIKdC0ZxB/YOhZQfkou1j/Qf3dffXL6QilgeJJDEwBQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.11.4/Shrinkwrap-0.11.4.zip" length="2414715" type="application/octet-stream" sparkle:edSignature="BtRiWUgA1aeczUMRcv9mEfsLAmv6t4IGUJPeFflNVGto/vs5B/GwyDqRRVZ0ST6KRa/goWXlfyFO9pqmMHElDA=="/>
     </item>
   </channel>
 </rss>
