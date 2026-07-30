@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.14.0</title>
-      <description><![CDATA[<p>New tag palette: press Control-Command-T anywhere, search the tags by whatever word you actually think of — clip, social, meta, compress, scale — and the folder is created in the Finder window you are looking at.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 19:44:24 -0400</pubDate>
-      <sparkle:version>36</sparkle:version>
-      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.14.1</title>
+      <description><![CDATA[<p>The palette moves to Shift-Command-T and becomes a setting. Control-Command-T was Finder's Add to Sidebar, and a global shortcut does not conflict with an app's — it takes it away.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 19:49:33 -0400</pubDate>
+      <sparkle:version>37</sparkle:version>
+      <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.14.0/Shrinkwrap-0.14.0.zip" length="2516056" type="application/octet-stream" sparkle:edSignature="3uApV/GrYKKwagAUo0n4y1xHdukur+Q2zlU14fhL+xltSJMVjpCfP4+ebGsNBSS2Q3h4O6M74sghPW3LvZ33Cw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.14.1/Shrinkwrap-0.14.1.zip" length="2524856" type="application/octet-stream" sparkle:edSignature="GCsVsMGq+SHtj1urHi7Wy1f76vIjWTNNJyhT+YDRFHOrcKKVRQX2UcTfjF+KSM756vey5Q+FYt2STR1lldotCA=="/>
     </item>
   </channel>
 </rss>
