@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.11.0</title>
-      <description><![CDATA[<p>New @trim tag: crops away transparent edges, so padding around a logo or an export disappears. Runs before resizing, and pairs with @nobg — remove the background, then trim to what is left.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 13:20:20 -0400</pubDate>
-      <sparkle:version>28</sparkle:version>
-      <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.11.1</title>
+      <description><![CDATA[<p>Shrinkwrap now guarantees it asks about updates at least once a week, even if automatic checks were switched off or the app has been running for a month without a relaunch.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 14:30:44 -0400</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>0.11.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.11.0/Shrinkwrap-0.11.0.zip" length="2392352" type="application/octet-stream" sparkle:edSignature="5KiwewYOpQzaj9nPNduoNAaQSp0UOummUBkuQhBEe/KV+oCkFmg6gfD1F+2/UZprrvHwocXAZstuWSmLAaWaDQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.11.1/Shrinkwrap-0.11.1.zip" length="2394389" type="application/octet-stream" sparkle:edSignature="K1F93pV89g/bMHv8CnHMLWbtzHBnpT1YmfFnrJWgU56JQuWShiu2RIDUonlAmk2AyS8Egyz3N+cznIaoZ/tMCw=="/>
     </item>
   </channel>
 </rss>
