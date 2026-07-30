@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.13.0</title>
-      <description><![CDATA[<p>Tag one image and it now gets a folder of its own — named to match, with the original kept inside it — instead of being scattered into whatever folder it happened to be in. Add @replace to have it take its own place instead. A tagged image that disagrees with the folder holding it always gets its own folder, even with @replace.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 19:08:13 -0400</pubDate>
-      <sparkle:version>35</sparkle:version>
-      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.14.0</title>
+      <description><![CDATA[<p>New tag palette: press Control-Command-T anywhere, search the tags by whatever word you actually think of — clip, social, meta, compress, scale — and the folder is created in the Finder window you are looking at.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 19:44:24 -0400</pubDate>
+      <sparkle:version>36</sparkle:version>
+      <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.13.0/Shrinkwrap-0.13.0.zip" length="2427902" type="application/octet-stream" sparkle:edSignature="2i2VtqaKyhjkuwcIoTzvZq/eefjnu1b2e2YQK2Cz2TIrbctb5Bdh/sKDe5FbHtArt0oZYzBNn4t9wE1vetuQBg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.14.0/Shrinkwrap-0.14.0.zip" length="2516056" type="application/octet-stream" sparkle:edSignature="3uApV/GrYKKwagAUo0n4y1xHdukur+Q2zlU14fhL+xltSJMVjpCfP4+ebGsNBSS2Q3h4O6M74sghPW3LvZ33Cw=="/>
     </item>
   </channel>
 </rss>
