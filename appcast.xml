@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.12.1</title>
-      <description><![CDATA[<p>Folders turn blue while working, and go back to no colour when they finish cleanly.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 18:38:34 -0400</pubDate>
-      <sparkle:version>34</sparkle:version>
-      <sparkle:shortVersionString>0.12.1</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.13.0</title>
+      <description><![CDATA[<p>Tag one image and it now gets a folder of its own — named to match, with the original kept inside it — instead of being scattered into whatever folder it happened to be in. Add @replace to have it take its own place instead. A tagged image that disagrees with the folder holding it always gets its own folder, even with @replace.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 19:08:13 -0400</pubDate>
+      <sparkle:version>35</sparkle:version>
+      <sparkle:shortVersionString>0.13.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.12.1/Shrinkwrap-0.12.1.zip" length="2416524" type="application/octet-stream" sparkle:edSignature="MO07I+ldUO7idRm0QWt5fVdPQf8JlgOwCL0vYMDgyJsZApil5tosRHd8ZZndSraW66BwG7pxhBZ6/ej7LV2BCg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.13.0/Shrinkwrap-0.13.0.zip" length="2427902" type="application/octet-stream" sparkle:edSignature="2i2VtqaKyhjkuwcIoTzvZq/eefjnu1b2e2YQK2Cz2TIrbctb5Bdh/sKDe5FbHtArt0oZYzBNn4t9wE1vetuQBg=="/>
     </item>
   </channel>
 </rss>
