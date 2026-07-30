@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.14.1</title>
-      <description><![CDATA[<p>The palette moves to Shift-Command-T and becomes a setting. Control-Command-T was Finder's Add to Sidebar, and a global shortcut does not conflict with an app's — it takes it away.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 19:49:33 -0400</pubDate>
-      <sparkle:version>37</sparkle:version>
-      <sparkle:shortVersionString>0.14.1</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.14.2</title>
+      <description><![CDATA[<p>The palette moves to Shift-Command-Y, verified free against Finder's own menus, and is now also a button you can add to the Finder toolbar — the one entry point that works everywhere, including Dropbox.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 19:55:08 -0400</pubDate>
+      <sparkle:version>38</sparkle:version>
+      <sparkle:shortVersionString>0.14.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.14.1/Shrinkwrap-0.14.1.zip" length="2524856" type="application/octet-stream" sparkle:edSignature="GCsVsMGq+SHtj1urHi7Wy1f76vIjWTNNJyhT+YDRFHOrcKKVRQX2UcTfjF+KSM756vey5Q+FYt2STR1lldotCA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.14.2/Shrinkwrap-0.14.2.zip" length="2524393" type="application/octet-stream" sparkle:edSignature="WAredyYCBcYEimmaStUS0KVarZm+ifSTYE5STVUIA9TV19ZHl71sxfhGf+T+he+N1i/5482J2VtqZDhcJi6zDA=="/>
     </item>
   </channel>
 </rss>
