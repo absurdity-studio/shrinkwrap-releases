@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.11.4</title>
-      <description><![CDATA[<p>Status colours now appear immediately instead of whenever Finder next happened to re-read the folder.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 17:36:12 -0400</pubDate>
-      <sparkle:version>32</sparkle:version>
-      <sparkle:shortVersionString>0.11.4</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.12.0</title>
+      <description><![CDATA[<p>A file that is still arriving from Dropbox is no longer read halfway through. Shrinkwrap now waits until a source is genuinely complete — bytes local, size settled, and the last byte actually readable — before touching it.</p>]]></description>
+      <pubDate>Thu, 30 Jul 2026 17:53:18 -0400</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>0.12.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.11.4/Shrinkwrap-0.11.4.zip" length="2414715" type="application/octet-stream" sparkle:edSignature="BtRiWUgA1aeczUMRcv9mEfsLAmv6t4IGUJPeFflNVGto/vs5B/GwyDqRRVZ0ST6KRa/goWXlfyFO9pqmMHElDA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.12.0/Shrinkwrap-0.12.0.zip" length="2415796" type="application/octet-stream" sparkle:edSignature="fD3TuKuRkqLWGePjS/u2+8gwZEQBFknPyEO+eEU0N3aOaRlR2ZOmvoE0FdwaJCMvmPPRkQpWvdnbDgR36QFsAA=="/>
     </item>
   </channel>
 </rss>
