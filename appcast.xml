@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.14.2</title>
-      <description><![CDATA[<p>The palette moves to Shift-Command-Y, verified free against Finder's own menus, and is now also a button you can add to the Finder toolbar — the one entry point that works everywhere, including Dropbox.</p>]]></description>
-      <pubDate>Thu, 30 Jul 2026 19:55:08 -0400</pubDate>
-      <sparkle:version>38</sparkle:version>
-      <sparkle:shortVersionString>0.14.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.17.1</title>
+      <description><![CDATA[<p>A shoot folder full of RAW files no longer sits permanently yellow — RAW and animated files are reported as not handled rather than as something needing attention. Tagged images get a folder of their own, @replace (or @solo) swaps in place instead, output names now carry the size the file actually is, and @ratio16x9 pairs with any size tag. Plus the tag palette on Shift-Command-Y and a Finder toolbar button.</p>]]></description>
+      <pubDate>Sat, 01 Aug 2026 21:20:02 -0400</pubDate>
+      <sparkle:version>44</sparkle:version>
+      <sparkle:shortVersionString>0.17.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.14.2/Shrinkwrap-0.14.2.zip" length="2524393" type="application/octet-stream" sparkle:edSignature="WAredyYCBcYEimmaStUS0KVarZm+ifSTYE5STVUIA9TV19ZHl71sxfhGf+T+he+N1i/5482J2VtqZDhcJi6zDA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.17.1/Shrinkwrap-0.17.1.zip" length="2539050" type="application/octet-stream" sparkle:edSignature="wbNrzNLC/Cd5/1tQ5L7tNO6Tp2mrzA3KyDVYvIVNGzXoXfAR3rDC4EtwhRtwJd5jY2XEwnWTSJ5z703/7d9MCg=="/>
     </item>
   </channel>
 </rss>
