@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.18.0</title>
-      <description><![CDATA[<p>@bg now takes colour names — @bg-white, @bg-black, @bg-navy — and keeps the word you typed instead of rewriting it to hex. RAW files beside your JPEGs no longer leave a shoot folder permanently yellow.</p>]]></description>
-      <pubDate>Sun, 02 Aug 2026 14:00:02 -0400</pubDate>
-      <sparkle:version>45</sparkle:version>
-      <sparkle:shortVersionString>0.18.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.18.1</title>
+      <description><![CDATA[<p>A tag that only asks for a background, an aspect, or a trim now actually does it. @bg-white on its own flattens the image onto white — previously the name was ignored outright.</p>]]></description>
+      <pubDate>Sun, 02 Aug 2026 14:21:25 -0400</pubDate>
+      <sparkle:version>46</sparkle:version>
+      <sparkle:shortVersionString>0.18.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.18.0/Shrinkwrap-0.18.0.zip" length="2553255" type="application/octet-stream" sparkle:edSignature="GBJQdiaGr4qK4nUA2xNCvtkE+AszCvEpd061dvef2WkNHumQjyIblqjIm4Rs45mrOAWU4JQQmCVXYvsrOHHRCw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.18.1/Shrinkwrap-0.18.1.zip" length="2561675" type="application/octet-stream" sparkle:edSignature="+wJr993LjMso5H8gNDIAJtuZTR3aUf18Q9HoMvKhnqljBaDkPaQGi4L3fRQ6705NJGL6HXPo4zD658j9mlSHAg=="/>
     </item>
   </channel>
 </rss>
