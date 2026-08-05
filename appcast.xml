@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.19.2</title>
-      <description><![CDATA[<p>Your savings stats are now a Stats tab in Settings instead of a hidden Easter egg.</p>]]></description>
-      <pubDate>Wed, 05 Aug 2026 15:55:38 -0400</pubDate>
-      <sparkle:version>49</sparkle:version>
-      <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.19.3</title>
+      <description><![CDATA[<p>Your Stats is now in the menu bar dropdown as well as the Settings tab.</p>]]></description>
+      <pubDate>Wed, 05 Aug 2026 15:57:55 -0400</pubDate>
+      <sparkle:version>50</sparkle:version>
+      <sparkle:shortVersionString>0.19.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.19.2/Shrinkwrap-0.19.2.zip" length="2585814" type="application/octet-stream" sparkle:edSignature="1/UJTj1umtcar7ZPbD1301upUMSSFgVSYVGd0PjH/AmhFeZd5aw6Sn3w5cnNkKqCgUeHcWsxXrb82UdyycW3Ag=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.19.3/Shrinkwrap-0.19.3.zip" length="2585813" type="application/octet-stream" sparkle:edSignature="i9pJd+6FEszGCCpf/cnsACmJXATK1vognDDBtfLQF2l72kI9OLk6wA7X/tb/6UYkRokMej7sE8AsUhqfnp+SAQ=="/>
     </item>
   </channel>
 </rss>
