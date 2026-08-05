@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.19.1</title>
-      <description><![CDATA[<p>Asking for two sizes with @clean no longer loses one of them — each size gets its own subfolder. Images that merely share a name with an output are left alone. New Support button in the menu.</p>]]></description>
-      <pubDate>Wed, 05 Aug 2026 15:47:31 -0400</pubDate>
-      <sparkle:version>48</sparkle:version>
-      <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.19.2</title>
+      <description><![CDATA[<p>Your savings stats are now a Stats tab in Settings instead of a hidden Easter egg.</p>]]></description>
+      <pubDate>Wed, 05 Aug 2026 15:55:38 -0400</pubDate>
+      <sparkle:version>49</sparkle:version>
+      <sparkle:shortVersionString>0.19.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.19.1/Shrinkwrap-0.19.1.zip" length="2588710" type="application/octet-stream" sparkle:edSignature="bc1Ffl7qd3B+TKCFPPB+6Izyw/wO5WnjfeanLBEjQeTbDS3B0ZpdQWrj38ulUqYX2jjxf3pFyo4kRGejaLNmAA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.19.2/Shrinkwrap-0.19.2.zip" length="2585814" type="application/octet-stream" sparkle:edSignature="1/UJTj1umtcar7ZPbD1301upUMSSFgVSYVGd0PjH/AmhFeZd5aw6Sn3w5cnNkKqCgUeHcWsxXrb82UdyycW3Ag=="/>
     </item>
   </channel>
 </rss>
