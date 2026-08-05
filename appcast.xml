@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.19.0</title>
-      <description><![CDATA[<p>Images that merely share a name with an output are left alone — identity is content, not filenames. New @clean tag drops tags from output filenames, for an exports folder you are handing to someone.</p>]]></description>
-      <pubDate>Tue, 04 Aug 2026 15:19:22 -0400</pubDate>
-      <sparkle:version>47</sparkle:version>
-      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.19.1</title>
+      <description><![CDATA[<p>Asking for two sizes with @clean no longer loses one of them — each size gets its own subfolder. Images that merely share a name with an output are left alone. New Support button in the menu.</p>]]></description>
+      <pubDate>Wed, 05 Aug 2026 15:47:31 -0400</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>0.19.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.19.0/Shrinkwrap-0.19.0.zip" length="2576972" type="application/octet-stream" sparkle:edSignature="GInoK2psIVBjqEGhCAeUxCsLIOoOtsfuHPeZKCXiBB6/ynjElEz3/zVkAvEPlMoFLQMfJGfP4pvhvz08hNXCCw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.19.1/Shrinkwrap-0.19.1.zip" length="2588710" type="application/octet-stream" sparkle:edSignature="bc1Ffl7qd3B+TKCFPPB+6Izyw/wO5WnjfeanLBEjQeTbDS3B0ZpdQWrj38ulUqYX2jjxf3pFyo4kRGejaLNmAA=="/>
     </item>
   </channel>
 </rss>
