@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.19.4</title>
-      <description><![CDATA[<p>An original you drag back out of z_backups now stays where you put it, instead of being filed away again on the next run.</p>]]></description>
-      <pubDate>Wed, 05 Aug 2026 16:31:31 -0400</pubDate>
-      <sparkle:version>51</sparkle:version>
-      <sparkle:shortVersionString>0.19.4</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.20.0</title>
+      <description><![CDATA[<p>New @comp tag, and @compress now uses a default compression level you can set in Settings. Runs are faster: files already on your disk no longer wait to be checked.</p>]]></description>
+      <pubDate>Wed, 05 Aug 2026 17:02:38 -0400</pubDate>
+      <sparkle:version>52</sparkle:version>
+      <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.19.4/Shrinkwrap-0.19.4.zip" length="2594793" type="application/octet-stream" sparkle:edSignature="/va8+aZR+0GSXmaCz2IP9YBiLojvnrq9COGMbFiNOvdiGriCEwFE6PxkeU1O0kZbV8y6yMEE3MbT/ilk0AlhCA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.20.0/Shrinkwrap-0.20.0.zip" length="2601515" type="application/octet-stream" sparkle:edSignature="YO/0KVhWQV9oKsyrbigrbBPTzbMKFzc3h3apS2fLMdFJdcTDX72byPkfYmn7DrY0fVwNzK0jBcBrrzJc+TvGAw=="/>
     </item>
   </channel>
 </rss>
