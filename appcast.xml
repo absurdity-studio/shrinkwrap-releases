@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.20.0</title>
-      <description><![CDATA[<p>New @comp tag, and @compress now uses a default compression level you can set in Settings. Runs are faster: files already on your disk no longer wait to be checked.</p>]]></description>
-      <pubDate>Wed, 05 Aug 2026 17:02:38 -0400</pubDate>
-      <sparkle:version>52</sparkle:version>
-      <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.21.0</title>
+      <description><![CDATA[<p>Shrinkwrap is yellow and black now — hazard tape, taxi doors, checkers.</p>]]></description>
+      <pubDate>Wed, 05 Aug 2026 20:59:15 -0400</pubDate>
+      <sparkle:version>53</sparkle:version>
+      <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.20.0/Shrinkwrap-0.20.0.zip" length="2601515" type="application/octet-stream" sparkle:edSignature="YO/0KVhWQV9oKsyrbigrbBPTzbMKFzc3h3apS2fLMdFJdcTDX72byPkfYmn7DrY0fVwNzK0jBcBrrzJc+TvGAw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.21.0/Shrinkwrap-0.21.0.zip" length="2609711" type="application/octet-stream" sparkle:edSignature="q+tID2gSHAaHuknuMvGBYQI0UP7lGnRm1jTvmq35SInk8VFaOhd10Kbfzo6dhXPF+UQA5B2FTfQFez1OpXANDg=="/>
     </item>
   </channel>
 </rss>
