@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.21.0</title>
-      <description><![CDATA[<p>Shrinkwrap is yellow and black now — hazard tape, taxi doors, checkers.</p>]]></description>
-      <pubDate>Wed, 05 Aug 2026 20:59:15 -0400</pubDate>
-      <sparkle:version>53</sparkle:version>
-      <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.22.0</title>
+      <description><![CDATA[<p>58-issue reliability release from a full adversarial code review. Files you place stay where you put them; names never lie about sizes; @lossless is genuinely lossless; status colours only ever mean act; a solo @replace is never re-eaten by its own folder. Full details in the release notes on GitHub.</p>]]></description>
+      <pubDate>Thu, 06 Aug 2026 14:52:35 -0400</pubDate>
+      <sparkle:version>54</sparkle:version>
+      <sparkle:shortVersionString>0.22.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.21.0/Shrinkwrap-0.21.0.zip" length="2609711" type="application/octet-stream" sparkle:edSignature="q+tID2gSHAaHuknuMvGBYQI0UP7lGnRm1jTvmq35SInk8VFaOhd10Kbfzo6dhXPF+UQA5B2FTfQFez1OpXANDg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.22.0/Shrinkwrap-0.22.0.zip" length="2929269" type="application/octet-stream" sparkle:edSignature="crCq7i3QvLnB5GzXpJxXuDQCflnsnfAIn1UOBqft5GdUgB3HK6DD87BUDJDZPFNaXmD8hVmPOW1GS4uk4DCxCA=="/>
     </item>
   </channel>
 </rss>
