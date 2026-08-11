@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.23.2</title>
-      <description><![CDATA[<p>AVIF containers now pass strict decoders (Firefox). Existing AVIF outputs are repaired in place on the next run — no re-encode, no quality change.</p>]]></description>
-      <pubDate>Tue, 11 Aug 2026 17:01:32 -0400</pubDate>
-      <sparkle:version>57</sparkle:version>
-      <sparkle:shortVersionString>0.23.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.23.3</title>
+      <description><![CDATA[<p>A tagged folder no longer plants a z_backups container in its parent — Downloads stays clean.</p>]]></description>
+      <pubDate>Tue, 11 Aug 2026 19:44:47 -0400</pubDate>
+      <sparkle:version>58</sparkle:version>
+      <sparkle:shortVersionString>0.23.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.23.2/Shrinkwrap-0.23.2.zip" length="4909232" type="application/octet-stream" sparkle:edSignature="/0K+CFtjtwQO/eMM5AcE81gcsPQ2YuGmQ446ayGDslq4o+iK1Y39eXnEWoCf0oXYLeaI2BUyDw2D7FPBW4+vBA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.23.3/Shrinkwrap-0.23.3.zip" length="4912510" type="application/octet-stream" sparkle:edSignature="asgmBKNKz8foSwR4245GWaJsrABCZJuJBLgeSh5FcYlcBFMphQtLnRWOl/5JFx/ElFDZNWi3rSflnnwgRp1PDA=="/>
     </item>
   </channel>
 </rss>
