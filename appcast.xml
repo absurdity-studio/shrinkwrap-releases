@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.23.0</title>
-      <description><![CDATA[<p>New @face tag: square avatars around every face Vision finds — 600px, editable zoom, up to 5 per photo, sources with nobody in them get tagged no-face-found. The same folder can now be watched safely on any number of Macs: each machine keeps its own log, and whichever claims a drop first does the work. The menu is a live status board — what's processing now and what needs attention, by folder name, nothing else. Plus the last of the review fixes.</p>]]></description>
-      <pubDate>Mon, 10 Aug 2026 13:42:58 -0400</pubDate>
-      <sparkle:version>55</sparkle:version>
-      <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.23.1</title>
+      <description><![CDATA[<p>Fixes a z_backups folder reappearing in watched folders with no @ folders in them, and menu error rows that could never clear once their folder was deleted.</p>]]></description>
+      <pubDate>Mon, 10 Aug 2026 21:38:25 -0400</pubDate>
+      <sparkle:version>56</sparkle:version>
+      <sparkle:shortVersionString>0.23.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.23.0/Shrinkwrap-0.23.0.zip" length="3089782" type="application/octet-stream" sparkle:edSignature="t2etBtjzPGw8uMYUCQR4vy4MYQjeUhwKxLW9x4ZrrPJEMiorA7xG3egQ4ZbLvK4IGMowrBMKyhGS2CiPZJcrCg=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.23.1/Shrinkwrap-0.23.1.zip" length="3106128" type="application/octet-stream" sparkle:edSignature="s7OsDWbqtqORVF6M45iGPdfZApu/Lr6GqpaHhJ6WgGxM1rZpPuSfaW5vD1EjTkNtnxZCcr9d0g7+XxKOsN3zDw=="/>
     </item>
   </channel>
 </rss>
