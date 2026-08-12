@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.24.0</title>
-      <description><![CDATA[<p>Your originals, one click away: z_backups becomes z_originals with your originals at its top level. Tagging a single file now swaps it in place — a folder is a machine, one tag is a file swap. Changing a folder's tags re-renders from originals and retires the old outputs. Files you add to z_originals yourself are never touched.</p>]]></description>
-      <pubDate>Wed, 12 Aug 2026 17:05:04 -0400</pubDate>
-      <sparkle:version>59</sparkle:version>
-      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.24.1</title>
+      <description><![CDATA[<p>Clearer first-launch notice for the new z_originals layout, and folders touched by an older Shrinkwrap on another Mac now heal themselves.</p>]]></description>
+      <pubDate>Wed, 12 Aug 2026 17:22:18 -0400</pubDate>
+      <sparkle:version>60</sparkle:version>
+      <sparkle:shortVersionString>0.24.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.24.0/Shrinkwrap-0.24.0.zip" length="4956217" type="application/octet-stream" sparkle:edSignature="pWoa6doOXd8Cp+03rFe3bSymRhteoyq0VTaQv4qS2JWe1DkNMB9wmSnWN9O3nuqg0lvnuDnDmpXTJmXoFJeCCQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.24.1/Shrinkwrap-0.24.1.zip" length="4970486" type="application/octet-stream" sparkle:edSignature="BT0ohWRRyEuCsHijzGqxMlM3WGt1JXAngnpXZa30lhUypyiBWmaCfDQo5lqgjUhMdlbkWY+Z+rJ3o10rg8kRBg=="/>
     </item>
   </channel>
 </rss>
