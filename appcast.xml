@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.23.3</title>
-      <description><![CDATA[<p>A tagged folder no longer plants a z_backups container in its parent — Downloads stays clean.</p>]]></description>
-      <pubDate>Tue, 11 Aug 2026 19:44:47 -0400</pubDate>
-      <sparkle:version>58</sparkle:version>
-      <sparkle:shortVersionString>0.23.3</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.24.0</title>
+      <description><![CDATA[<p>Your originals, one click away: z_backups becomes z_originals with your originals at its top level. Tagging a single file now swaps it in place — a folder is a machine, one tag is a file swap. Changing a folder's tags re-renders from originals and retires the old outputs. Files you add to z_originals yourself are never touched.</p>]]></description>
+      <pubDate>Wed, 12 Aug 2026 17:05:04 -0400</pubDate>
+      <sparkle:version>59</sparkle:version>
+      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.23.3/Shrinkwrap-0.23.3.zip" length="4912510" type="application/octet-stream" sparkle:edSignature="asgmBKNKz8foSwR4245GWaJsrABCZJuJBLgeSh5FcYlcBFMphQtLnRWOl/5JFx/ElFDZNWi3rSflnnwgRp1PDA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.24.0/Shrinkwrap-0.24.0.zip" length="4956217" type="application/octet-stream" sparkle:edSignature="pWoa6doOXd8Cp+03rFe3bSymRhteoyq0VTaQv4qS2JWe1DkNMB9wmSnWN9O3nuqg0lvnuDnDmpXTJmXoFJeCCQ=="/>
     </item>
   </channel>
 </rss>
