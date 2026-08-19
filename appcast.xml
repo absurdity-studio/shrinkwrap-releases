@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.24.2</title>
-      <description><![CDATA[<p>Wide-gamut images keep their color. Display P3 sources — iPad art, iPhone photos — now come out tagged and unclipped in PNG, JPEG, WebP and AVIF, instead of being quietly flattened to sRGB. Retag a folder to re-render existing wide-gamut outputs.</p>]]></description>
-      <pubDate>Thu, 13 Aug 2026 10:13:48 -0400</pubDate>
-      <sparkle:version>61</sparkle:version>
-      <sparkle:shortVersionString>0.24.2</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.25.0</title>
+      <description><![CDATA[<p>AI upscaling: images too small for their target are now enlarged by an on-device model instead of coming out short — on by default, with a Fast/Best engine picker in Settings and @upscale / @upscale-fast / @upscale-full / @noupscale for per-folder control. Fixes @face silently producing a plain centre crop on headshots where the subject already fills the frame.</p>]]></description>
+      <pubDate>Wed, 19 Aug 2026 12:24:31 -0400</pubDate>
+      <sparkle:version>62</sparkle:version>
+      <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.24.2/Shrinkwrap-0.24.2.zip" length="5009212" type="application/octet-stream" sparkle:edSignature="jHRoJE2tKRveUdc8S0XD2x+DsLZcTiBfETcCkdL9uiAuBVhBHXcpaiCsbUA5zCn+yeVNwZEWAMwiqxzXCb72BA=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.0/Shrinkwrap-0.25.0.zip" length="38424850" type="application/octet-stream" sparkle:edSignature="5U9z/ShgRl7i+Oj1i/NuqkVBjsPg9M4bj9nNQRiqmSDHIZR8qZ3HT6W8ktWqymy/UtjopOPcEUBeg8Ian4BwCQ=="/>
     </item>
   </channel>
 </rss>
