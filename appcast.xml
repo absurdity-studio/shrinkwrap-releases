@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.25.0</title>
-      <description><![CDATA[<p>AI upscaling: images too small for their target are now enlarged by an on-device model instead of coming out short — on by default, with a Fast/Best engine picker in Settings and @upscale / @upscale-fast / @upscale-full / @noupscale for per-folder control. Fixes @face silently producing a plain centre crop on headshots where the subject already fills the frame.</p>]]></description>
-      <pubDate>Wed, 19 Aug 2026 12:24:31 -0400</pubDate>
-      <sparkle:version>62</sparkle:version>
-      <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.25.1</title>
+      <description><![CDATA[<p>AI upscaling is now opt-in: add @upscale to a folder that should enlarge undersized sources, or turn it on for everything in Settings. @og, @favicon and @webclip upscale on their own, since their dimensions are fixed by the platforms that read them — @noupscale overrides. @crop is now an accepted spelling of the whole @fill family (@crop-top, @crop-nw, and the rest).</p>]]></description>
+      <pubDate>Wed, 19 Aug 2026 17:34:09 -0400</pubDate>
+      <sparkle:version>63</sparkle:version>
+      <sparkle:shortVersionString>0.25.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.0/Shrinkwrap-0.25.0.zip" length="38424850" type="application/octet-stream" sparkle:edSignature="5U9z/ShgRl7i+Oj1i/NuqkVBjsPg9M4bj9nNQRiqmSDHIZR8qZ3HT6W8ktWqymy/UtjopOPcEUBeg8Ian4BwCQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.1/Shrinkwrap-0.25.1.zip" length="38439946" type="application/octet-stream" sparkle:edSignature="Tunw62XVOjjbpY7nS6F6WmQTn/+CrFzznjzwlEmp9J586JLY5AB5aG+BlAI11QjoKsJoZQxj7H3b8K/RzyFGDQ=="/>
     </item>
   </channel>
 </rss>
