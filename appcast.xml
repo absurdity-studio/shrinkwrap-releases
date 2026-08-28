@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.25.1</title>
-      <description><![CDATA[<p>AI upscaling is now opt-in: add @upscale to a folder that should enlarge undersized sources, or turn it on for everything in Settings. @og, @favicon and @webclip upscale on their own, since their dimensions are fixed by the platforms that read them — @noupscale overrides. @crop is now an accepted spelling of the whole @fill family (@crop-top, @crop-nw, and the rest).</p>]]></description>
-      <pubDate>Wed, 19 Aug 2026 17:34:09 -0400</pubDate>
-      <sparkle:version>63</sparkle:version>
-      <sparkle:shortVersionString>0.25.1</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.25.2</title>
+      <description><![CDATA[<p>Solo file tags (photo@600sq.jpg) now work in Dropbox folders: macOS refused the app permission to move the original to the Trash, so every solo replace quietly rolled back. The original now falls back to a direct move into your Trash. Also fixes the CLI's watch command, which stopped watching immediately in release builds.</p>]]></description>
+      <pubDate>Fri, 28 Aug 2026 10:57:49 -0400</pubDate>
+      <sparkle:version>64</sparkle:version>
+      <sparkle:shortVersionString>0.25.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.1/Shrinkwrap-0.25.1.zip" length="38439946" type="application/octet-stream" sparkle:edSignature="Tunw62XVOjjbpY7nS6F6WmQTn/+CrFzznjzwlEmp9J586JLY5AB5aG+BlAI11QjoKsJoZQxj7H3b8K/RzyFGDQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.2/Shrinkwrap-0.25.2.zip" length="38444107" type="application/octet-stream" sparkle:edSignature="/nFpIZYZTheCQC4tKzeDiG5G2Ckwt38x7sQqkEVzxHUBvDUwAi0y7doK6471PVqbSw3ioBLJ+Mp6FIkEOAWGCg=="/>
     </item>
   </channel>
 </rss>
