@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.25.3</title>
-      <description><![CDATA[<p>New: @cascade — put it on a tagged folder and its other tags apply to every plain subfolder below it, each processed as its own folder (@below, @downstream and @throughout say the same thing). @inherit now works on its own and on subfolders with names of their own, taking the enclosing folder's tags. A subfolder with tags of its own always keeps its own scope.</p>]]></description>
-      <pubDate>Wed, 09 Sep 2026 13:13:39 -0400</pubDate>
-      <sparkle:version>65</sparkle:version>
-      <sparkle:shortVersionString>0.25.3</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.25.4</title>
+      <description><![CDATA[<p>The parse command's flags line now names @cascade, so folder diagnostics report the whole spec.</p>]]></description>
+      <pubDate>Wed, 09 Sep 2026 13:42:41 -0400</pubDate>
+      <sparkle:version>66</sparkle:version>
+      <sparkle:shortVersionString>0.25.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.3/Shrinkwrap-0.25.3.zip" length="38503869" type="application/octet-stream" sparkle:edSignature="jNPhN5NBlKBWMXK7tFEjSiBKy+1bw4n3sW5n5GhI74eYtLuUEFsfZFG3uPYB6bza3Xc3nxkUzdb3faYz7dUECw=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.4/Shrinkwrap-0.25.4.zip" length="38503917" type="application/octet-stream" sparkle:edSignature="HBr0MswtDoHiGdbLP2k6qlN0mOESxxfIxL3dwabthEpK1SLfZAs7iUGqb17t+SccOMSbW3mfdLPsQnVtRfmDAQ=="/>
     </item>
   </channel>
 </rss>
