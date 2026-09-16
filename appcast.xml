@@ -3,13 +3,13 @@
   <channel>
     <title>Shrinkwrap</title>
     <item>
-      <title>Shrinkwrap 0.25.4</title>
-      <description><![CDATA[<p>The parse command's flags line now names @cascade, so folder diagnostics report the whole spec.</p>]]></description>
-      <pubDate>Wed, 09 Sep 2026 13:42:41 -0400</pubDate>
-      <sparkle:version>66</sparkle:version>
-      <sparkle:shortVersionString>0.25.4</sparkle:shortVersionString>
+      <title>Shrinkwrap 0.26.0</title>
+      <description><![CDATA[<p>The app now ships its own JPEG and WebP encoders (mozjpeg, libwebp) and a built-in PNG quantizer, so every install gets the small files Homebrew users had. @email renders for the worst client in the room: 1200 px wide, JPEG unless transparent, sRGB, metadata stripped, capped at 1 MB, and a note when Outlook would cut it off. Display P3 JPEGs keep their colour.</p>]]></description>
+      <pubDate>Wed, 16 Sep 2026 15:13:02 -0400</pubDate>
+      <sparkle:version>67</sparkle:version>
+      <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.25.4/Shrinkwrap-0.25.4.zip" length="38503917" type="application/octet-stream" sparkle:edSignature="HBr0MswtDoHiGdbLP2k6qlN0mOESxxfIxL3dwabthEpK1SLfZAs7iUGqb17t+SccOMSbW3mfdLPsQnVtRfmDAQ=="/>
+      <enclosure url="https://github.com/absurdity-studio/shrinkwrap-releases/releases/download/v0.26.0/Shrinkwrap-0.26.0.zip" length="39916118" type="application/octet-stream" sparkle:edSignature="FJZ99omny22J1zWavnrA8W5VGgVULCnOp9KQ1jySCe6m5G5Cc70F4lXxCmM1fjTZsJBKNvZ7ykYE8xH5yd9WBQ=="/>
     </item>
   </channel>
 </rss>
